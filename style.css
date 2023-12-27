@@ -694,6 +694,9 @@ padding: 1rem 1rem;
     .menu-button{
         display: flex;
     }
+    #home .navbar nav .sidebar a{
+        font-size:24px ;
+      }
 }
 @media (max-width:600px){
     #home .navbar nav .sidebar{
@@ -702,5 +705,6 @@ padding: 1rem 1rem;
     #home .navbar nav .sidebar a{
         font-size:24px ;
       }
+
 }
 
