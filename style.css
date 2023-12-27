@@ -699,5 +699,8 @@ padding: 1rem 1rem;
     #home .navbar nav .sidebar{
         width: 100%;
     }
+    #home .navbar nav .sidebar a{
+        font-size:24px ;
+      }
 }
 
